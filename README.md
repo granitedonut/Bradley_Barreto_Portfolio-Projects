@@ -2,5 +2,5 @@
 skill showcasing
 #Projects
 Completed Programs
-*[Project_1](Project_1)
+*[Project_1](Project_1) \n
 *[Project_2](Project_2)
